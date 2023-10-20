@@ -13,7 +13,7 @@ git config user.name "nishantbuktare"
 git config user.email "nishant.buktare@gmail.com"
 
 REM Add and configure the remote repository
-git remote add upstream "https://nishantbuktare.github.io/space-pages.git"
+git remote add upstream "https://github.com/nishantbuktare/space-pages.git"
 git fetch upstream
 
 REM Reset the repository to the latest commit
