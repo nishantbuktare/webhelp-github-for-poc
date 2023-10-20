@@ -16,7 +16,7 @@ echo "Adding and configuring the remote repository..."
 git remote add upstream "https://github.com/nishantbuktare/space-pages.git"
 git fetch upstream
 
-echo "Resetting the repository to the latest commit..."
+echo "Resetting the repository to the latest committ..."
 git reset upstream/gh-pages
 
 echo "Adding changes to the Git repository..."
