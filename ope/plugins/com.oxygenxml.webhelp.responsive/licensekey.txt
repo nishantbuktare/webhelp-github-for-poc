@@ -1,0 +1,22 @@
+------START-LICENSE-KEY------
+
+Registration_Name=nishant . buktare @ gmail . com
+
+Company=-
+
+Category=Enterprise
+
+Component=Publishing-Engine
+
+Version=26
+
+Number_of_Licenses=1
+
+Date=10-12-2023
+
+Trial=31
+
+SGN=MCwCFDUn8BWrEhNVZz9Xk9wwId4ke4NYAhRm8ZEuwycxehZRd6df/GEFoCaTKQ\=\=
+
+
+-------END-LICENSE-KEY-------

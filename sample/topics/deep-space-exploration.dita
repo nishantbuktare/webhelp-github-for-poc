@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_by5_mnv_kx">
+    <title>Deep Space Exploration</title>
+    <shortdesc>Anomalies and other unique discoveries in deep space</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>Deep Space Exploration</indexterm>
+                <indexterm>Deep Space Exploration<indexterm>Astronomy</indexterm></indexterm>
+                <indexterm>Deep Space Exploration<indexterm>Astronautics</indexterm></indexterm>
+                <indexterm>Astronomy</indexterm>
+                <indexterm>Astronautics</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p>Deep Space Exploration is the branch of <term>astronomy</term>,
+            <term>astronautics</term>, and space technology that is involved with exploring the
+            distant regions of outer space. Physical exploration of space is conducted both by human
+            spaceflights (deep-space astronautics) and by robotic spacecraft.</p>
+        <p>At present the furthest space probe mankind has constructed and launched from Earth is
+            the <b>X22000 Super Rocket</b> that reached the outer edge of the Solar system, and
+            entered interstellar space on August 12, 2043. Deep space exploration further than this
+            vessel's capacity is not yet possible due to limitations in the space-engine technology
+            currently available.</p>
+        <p>Some of the best candidates for future deep space engine technologies include
+            anti-matter, nuclear power, and beamed propulsion. The latter, beamed propulsion,
+            appears to be the best candidate for deep space exploration presently available, since
+            it uses known physics and known technology that is being developed for other
+            purposes.</p>
+    </body>
+</topic>

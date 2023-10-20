@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_jnc_5lv_kx">
+    <title>Introduction</title>
+    <shortdesc>Brief introduction to the concept of space exploration</shortdesc>
+    <body>
+        <p>
+            <note><i>Any factual information in this project was taken from Wikipedia, the free
+                    encyclopedia.</i></note>
+        </p>
+        <p><b>Space exploration</b> is the discovery and exploration of celestial structures in
+            outer space by means of evolving and growing space technology. While the study of space
+            is carried out mainly by astronomers with telescopes, the physical exploration of space
+            is conducted both by unmanned robotic space probes and human spaceflight.</p>
+        <p>While the observation of objects in space, known as astronomy, predates reliable recorded
+            history, it was the development of large and relatively efficient rockets during the
+            mid-twentieth century that allowed physical space exploration to become a reality.
+            Common rationales for exploring space include advancing scientific research, national
+            prestige, uniting different nations, ensuring the future survival of humanity, and
+            developing military and strategic advantages against other countries.</p>
+    </body>
+</topic>
+
+<?oxy_options track_changes="on"?>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_cdz_5yv_kx">
+    <title>Space Ships</title>
+    <shortdesc>Specifications and details about the X22000 and Z11000 space crafts</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>Space ships</indexterm>
+                <indexterm>Space craft</indexterm>
+                <indexterm>Rockets</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p>A space ship is a vehicle or machine designed to fly in outer space. Space ships are used
+            for a variety of purposes, including communications, Earth observation, meteorology,
+            navigation, space colonization, planetary exploration, and transportation of humans and
+            cargo. All space ships, except single-stage-to-orbit vehicles, cannot get into space on
+            their own, and require a launch vehicle (carrier rocket).</p>
+    </body>
+    <related-links>
+        <link href="aeronautics.dita"/>
+        <link href="deep-space-exploration.dita"/>
+    </related-links>
+</topic>

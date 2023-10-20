@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="terrestrial">
+    <title>Terrestrial Planets</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>Planets<indexterm>Terrestrial</indexterm></indexterm>
+                <indexterm>Terrestrial planets</indexterm>
+                <indexterm>Terrestrial planets<indexterm>Mercury</indexterm></indexterm>
+                <indexterm>Terrestrial planets<indexterm>Venus</indexterm></indexterm>
+                <indexterm>Terrestrial planets<indexterm>Earth</indexterm></indexterm>
+                <indexterm>Terrestrial planets<indexterm>Mares</indexterm></indexterm>
+                <indexterm>Mercury</indexterm>
+                <indexterm>Venus</indexterm>
+                <indexterm>Earth</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <section id="mercury">
+            <title>Mercury</title>
+            <p><b>Mercury</b> is the smallest and innermost planet in the Solar System. Its orbital
+                period around the Sun of 87.97 days is the shortest of all the planets in the Solar
+                System. It is named after the Roman deity Mercury, the messenger of the gods.</p>
+            <p>
+                <fig id="fig2">
+                    <title>Planet Mercury</title>
+                    <image href="../img/Mercury.jpg"/>
+                </fig>
+            </p>
+        </section>
+        <section id="venus">
+            <title>Venus</title>
+            <p><b>Venus</b> is the second planet from the Sun, orbiting it every 224.7 Earth days.
+                It has the longest rotation period (243 days) of any planet in the Solar System and
+                rotates in the opposite direction to most other planets (meaning the Sun would rise
+                in the west and set in the east). It does not have any natural satellites. It is
+                named after the Roman goddess of love and beauty.</p>
+            <p>
+                <fig>
+                    <title id="fig3">Planet Venus</title>
+                    <image href="../img/Venus.jpg"/>
+                </fig>
+            </p>
+        </section>
+        <section id="earth">
+            <title>Earth</title>
+            <p><b>Earth</b> is the third planet from the Sun and the only astronomical object known
+                to harbor life. According to radiometric dating and other sources of evidence, Earth
+                formed over 4.5 billion years ago. Earth's gravity interacts with other objects in
+                space, especially the Sun and the Moon, Earth's only natural satellite. Earth
+                revolves around the Sun in 365.26 days, a period known as an Earth year. During this
+                time, Earth rotates about its axis about 366.26 times.</p>
+            <p>
+                <fig id="fig4">
+                    <title>Planet Earth</title>
+                    <image href="../img/Earth.jpg"/>
+                </fig>
+            </p>
+        </section>
+        <section id="mars">
+            <title>Mars</title>
+            <p><b>Mars</b> is the fourth planet from the Sun and the second-smallest planet in the
+                Solar System after Mercury. In English, Mars carries a name of the Roman god of war,
+                and is often referred to as the "<b>Red Planet</b>" because the reddish iron oxide
+                prevalent on its surface gives it a reddish appearance that is distinctive among the
+                astronomical bodies visible to the naked eye. Mars is a terrestrial planet with a
+                thin atmosphere, having surface features reminiscent both of the impact craters of
+                the Moon and the valleys, deserts, and polar ice caps of Earth.</p>
+            <p>
+                <fig id="fig5">
+                    <title>Planet Mars</title>
+                    <image href="../img/Mars.jpg"/>
+                </fig>
+            </p>
+        </section>
+    </body>
+</topic>

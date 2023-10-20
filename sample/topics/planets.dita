@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="planets">
+    <title>Planets</title>
+    <shortdesc>Details about the eight planets in our solar system</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>Planets</indexterm>
+                <indexterm>Planets<indexterm>Giant</indexterm></indexterm>
+                <indexterm>Planets<indexterm>Terrestrial</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p>A <b>planet</b> is an astronomical body orbiting a star or stellar remnant that is
+            massive enough to be rounded by its own gravity, is not massive enough to cause
+            thermonuclear fusion, and has cleared its neighbouring region of planetesimals.</p>
+        <p>Planets are generally divided into two main types: large low-density giant planets, and
+            smaller rocky terrestrials. There are eight planets in the Solar System. In order of
+            increasing distance from the Sun, they are the four terrestrials, Mercury, Venus, Earth,
+            and Mars, then the four giant planets, Jupiter, Saturn, Uranus, and Neptune. Six of the
+            planets are orbited by one or more natural satellites.</p>
+        <p>
+            <fig id="fig1">
+                <title>The Solar System</title>
+                <p>
+                    <imagemap>
+                        <image href="../img/solar-system.jpg"/>
+                        <area>
+                            <shape>circle</shape>
+                            <coords>196, 441, 17</coords>
+                            <xref href="terrestrial.dita#terrestrial/mercury" format="dita"
+                                >Mercury</xref>
+                        </area>
+                        <area>
+                            <shape>circle</shape>
+                            <coords>53, 255, 26</coords>
+                            <xref href="terrestrial.dita#terrestrial/venus" format="dita"
+                                >Venus</xref>
+                        </area>
+                        <area>
+                            <shape>circle</shape>
+                            <coords>226, 301, 36</coords>
+                            <xref href="terrestrial.dita#terrestrial/earth" format="dita"
+                                >Earth</xref>
+                        </area>
+                        <area>
+                            <shape>circle</shape>
+                            <coords>190, 191, 24</coords>
+                            <xref href="terrestrial.dita#terrestrial/mars" format="dita">Mars</xref>
+                        </area>
+                        <area>
+                            <shape>circle</shape>
+                            <coords>427, 420, 74</coords>
+                            <xref href="giant-planets.dita#giant-planets/jupiter" format="dita"
+                                >Jupiter</xref>
+                        </area>
+                        <area>
+                            <shape>circle</shape>
+                            <coords>230, 54, 50</coords>
+                            <xref href="giant-planets.dita#giant-planets/saturn" format="dita"
+                                >Saturn</xref>
+                        </area>
+                        <area>
+                            <shape>circle</shape>
+                            <coords>520, 251, 45</coords>
+                            <xref href="giant-planets.dita#giant-planets/uranus" format="dita"
+                                >Uranus</xref>
+                        </area>
+                        <area>
+                            <shape>circle</shape>
+                            <coords>472, 39, 35</coords>
+                            <xref href="giant-planets.dita#giant-planets/neptune" format="dita"
+                                >Neptune</xref>
+                        </area>
+                    </imagemap>
+                </p>
+            </fig>
+        </p>
+    </body>
+</topic>

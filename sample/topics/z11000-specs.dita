@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="x22000-specs">
+    <title>Z11000 Specs</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>Space ships<indexterm>Z11000 Light
+                            Rocket<indexterm>Specifications</indexterm></indexterm></indexterm>
+                <indexterm>Z11000 specifications</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p>
+            <table frame="all" rowsep="1" colsep="1" id="table2">
+                <title>Z11000 Specifications</title>
+                <tgroup cols="3">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <colspec colname="c3" colnum="3" colwidth="3*"/>
+                    <thead>
+                        <row>
+                            <entry>Name</entry>
+                            <entry>Spec Value</entry>
+                            <entry>Notes</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry align="center">Cores</entry>
+                            <entry align="center">2</entry>
+                            <entry>Three cores make up the first stage. The side cores are connected
+                                at the base and at the top of the center core’s liquid oxygen tank.
+                                The two cores generate 11,637 kN (1186 tf) of thrust at
+                                liftoff.</entry>
+                        </row>
+                        <row>
+                            <entry align="center">Engines</entry>
+                            <entry align="center">19</entry>
+                            <entry>Shortly after liftoff 11 of the engines are throttled down. After
+                                the side cores separate, the 11 engines throttle back up to full
+                                thrust.</entry>
+                        </row>
+                        <row>
+                            <entry align="center">Mini Engines</entry>
+                            <entry align="center">22</entry>
+                            <entry>Inside each core is a cluster of 22 mini engines. These same
+                                engines power the X22000, enabling efficiencies that make the Z11000
+                                the most cost-effective light launch vehicle in the world. With a
+                                total of 19 first-stage engines, the Z11000 has engine-out
+                                capability that under most payload scenarios can sustain up to three
+                                unplanned engine shutdown at any point in flight and still
+                                successfully complete its mission.</entry>
+                        </row>
+                        <row>
+                            <entry align="center">Thrust at sea level</entry>
+                            <entry align="center">17034 kN</entry>
+                            <entry>The engineers achieved this through the use of a special API
+                                called <codeph>z11000_2Core</codeph>).</entry>
+                        </row>
+                        <row>
+                            <entry align="center">Thrust in vacuum</entry>
+                            <entry align="center">19482 kN</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry align="center">Height</entry>
+                            <entry align="center">53.7 m</entry>
+                            <entry>Measured from lowest to highest point</entry>
+                        </row>
+                        <row>
+                            <entry align="center">Width</entry>
+                            <entry align="center">9.78 m</entry>
+                            <entry>Measured from widest point</entry>
+                        </row>
+                        <row>
+                            <entry align="center">Mass</entry>
+                            <entry align="center">1,245 kg </entry>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </body>
+</topic>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="x22000">
+    <title>Z11000 Light Rocket</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>Space ships<indexterm>Z11000 Light Rocket</indexterm></indexterm>
+                <indexterm>Z11000</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p>The <b>Z11000 Super Rocket</b> is the lightweight, mobile space exploration rocket. It is
+            a smaller version of the X22000 Super Rocket, but it still has the ability to lift
+            nearly 63 metric tons into orbit, but at one-half the cost of the X22000. The
+                <b>Z11000</b> has proven to be a very mobile, yet reliable space craft.</p>
+        <p>Its first stage is composed of 2 engine cores, each consisting of 19 engines and 22 mini
+            engines. It generates more than 19,000 kiloNewtons of thrust at liftoff, equal to
+            approximately sixteen DC-10 airplanes. Only the <b>X22000 Super Rocket</b> delivers more
+            payload to orbit. Z11000 was designed from the outset to carry humans into space and
+            restores the possibility of flying missions with crew to most of the planets in the
+            Milky Way galaxy.</p>
+    </body>
+</topic>

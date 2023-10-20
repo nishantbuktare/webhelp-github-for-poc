@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="galaxies">
+    <title>Galaxies</title>
+    <shortdesc>Information about known galaxies</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>Galaxies</indexterm>
+                <indexterm>Galaxies<indexterm>Dwarf</indexterm></indexterm>
+                <indexterm>Galaxies<indexterm>Milky Way</indexterm></indexterm>
+                <indexterm>Dwarf galaxy</indexterm>
+                <indexterm>Sagittarius</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p>A <b>galaxy</b>
+            <fn>The word galaxy is derived from the Greek <i>galaxias</i> (γαλαξίας), literally "milky", a reference to the Milky Way.</fn> is a gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark
+            matter. Galaxies range in size from dwarfs with just a few hundred million (108) stars to giants with one hundred trillion (1014) stars, each orbiting its galaxy's center of mass.</p>
+        <p>Galaxies are categorized according to their visual morphology as elliptical, spiral, or irregular. Many galaxies are thought to have super massive black holes at their active centers <fn> The Milky Way's central black hole, known
+                as Sagittarius A*, has a mass four million times greater than the Sun. </fn>.</p>
+    </body>
+</topic>

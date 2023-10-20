@@ -1,0 +1,12 @@
+language: shell
+script:
+  - sh publish.sh
+after_success:
+  - sh deploy.sh
+env:
+  global:
+    - ANT_OPTS=-Xmx1024M
+before_install:
+  - chmod +x ope/bin/dita
+  - chmod +x publish.sh
+  - chmod +x deploy.sh

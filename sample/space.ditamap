@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Kapil Exploration</mainbooktitle>
+    </booktitle>
+    <frontmatter>
+        <booklists>
+            <toc/>
+        </booklists>
+    </frontmatter>
+    <chapter href="topics/introduction.dita"/>
+    <chapter href="topics/galaxies.dita"/>
+    <chapter href="topics/planets.dita">
+        <topicref href="topics/terrestrial.dita"/>
+        <topicref href="topics/giant-planets.dita"/>
+    </chapter>
+    <chapter href="topics/aeronautics.dita"/>
+    <chapter href="topics/deep-space-exploration.dita">
+        <topicref href="topics/anomalies.dita"/>
+        <topicref href="topics/pluto-flyover.dita"/>
+    </chapter>
+    <chapter href="maps/chapter-space-ships.ditamap" format="ditamap"/>
+    <backmatter>
+        <booklists>
+            <figurelist/>
+            <tablelist/>
+            <indexlist/>
+        </booklists>
+    </backmatter>
+</bookmap>

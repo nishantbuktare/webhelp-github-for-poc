@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="x22000">
+    <title>X22000 Super Rocket</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>Space ships<indexterm>X22000 Super Rocket</indexterm></indexterm>
+                <indexterm>X22000</indexterm>
+                <indexterm>Saturius XI</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p>The <b>X22000 Super Rocket</b> is the most powerful space exploration rocket in the
+            world. With the ability to lift nearly 114 metric tons into orbit, it can lift more than
+            twice the payload of the next closest space exploration vehicle, but at one-fifth the
+            cost. The X22000 use proven technology and reliability.</p>
+        <p>Its first stage is composed of 4 engine cores, each consisting of 37 engines and 55 mini
+            engines. It generates more than 44,000 kiloNewtons of thrust at liftoff, equal to
+            approximately thirty DC-10 airplanes. Only the Saturius XI sun rocket, last flown in
+            2043, delivered more payload to orbit. X22000 was designed from the outset to carry
+            humans into space and restores the possibility of flying missions with crew to all of
+            the planets in the Milky Way galaxy.</p>
+    </body>
+</topic>

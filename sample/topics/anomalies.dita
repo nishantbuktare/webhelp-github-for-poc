@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_tkt_t4v_kx">
+    <title>Anomalies</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>Anomalies</indexterm>
+                <indexterm>Deep Space Exploration<indexterm>Anomalies</indexterm></indexterm>
+                <indexterm>Perihelion</indexterm>
+                <indexterm>Perigee</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p>In astronomy, an <b>anomaly</b> refers to the angular distance of a planet or satellite
+            from its last <term>perihelion</term> or <term>perigee</term>.</p>
+        <p>
+            <dl id="dl1">
+                <dlentry>
+                    <dt>Perihelion</dt>
+                    <dd>The point in the orbit of a planet, asteroid, or comet at which it is
+                        closest to the sun.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Perigee</dt>
+                    <dd>The point in the orbit of the moon or a satellite at which it is nearest to
+                        the earth.</dd>
+                </dlentry>
+            </dl>
+        </p>
+        <p>The following is a list of some anomalies:<ul id="ul1">
+                <li><xref href="https://en.wikipedia.org/wiki/Apsidal_precession" format="html"
+                        scope="external">Anomalous precession</xref>, another term for "apsidal
+                    precession".</li>
+                <li><xref href="https://en.wikipedia.org/wiki/Eccentric_anomaly" format="html"
+                        scope="external">Eccentric anomaly</xref>, an intermediate value used to
+                    compute the position of a celestial object as a function of time. Also see:<ul
+                        id="ul2">
+                        <li><xref href="https://en.wikipedia.org/wiki/Eccentricity_vector"
+                                format="html" scope="external">Eccentricity Vector</xref>, the
+                            dimensionless vector with direction pointing from <term>apoapsis</term>
+                            to <term>periapsis</term> and with magnitude equal to the orbit's scalar
+                            eccentricity.</li>
+                        <li><xref href="https://en.wikipedia.org/wiki/Orbital_eccentricity"
+                                format="html" scope="external">Orbital Eccentricity</xref>, a
+                            dimensionless parameter that determines the amount by which its orbit
+                            around another body deviates from a perfect circle.</li>
+                    </ul></li>
+                <li><xref href="https://en.wikipedia.org/wiki/Flyby_anomaly" format="html"
+                        scope="external">Flyby anomaly</xref>, an unexpected energy increase during
+                    the flybys of the Earth by various satellites.</li>
+                <li><xref href="https://en.wikipedia.org/wiki/Mean_anomaly" format="html"
+                        scope="external">Mean anomaly</xref>, a measure of time in the study of
+                    orbital dynamics.</li>
+                <li><xref href="https://en.wikipedia.org/wiki/Pioneer_anomaly" format="html"
+                        scope="external">Pioneer anomaly</xref>, the observed deviation of the
+                    trajectories of some unmanned space probes.</li>
+                <li><xref href="https://en.wikipedia.org/wiki/South_Atlantic_Anomaly" format="html"
+                        scope="external">South Atlantic Anomaly</xref>, an area where the Earth's
+                    inner radiation belt comes closest to the Earth's surface.</li>
+                <li><xref href="https://en.wikipedia.org/wiki/True_anomaly" format="html"
+                        scope="external">True anomaly</xref>, the angle between the direction of
+                        <term>periapsis</term> and the current position of an object on its
+                    orbit.</li>
+            </ul></p>
+        <section id="kepler">
+            <title>Kepler's Laws of Planetary Motion</title>
+            <p>In astronomy, Kepler's laws of planetary motion are scientific laws describing the
+                motion of planets around the Sun:<ol id="ol1">
+                    <li>The orbit of a planet is an ellipse with the Sun at one of the two foci.<ol
+                            id="ol2">
+                            <li>The planetary orbit is not a circle, but an ellipse.<ol id="ol3">
+                                    <li>The Sun is not at the center but at a focal point of the
+                                        elliptical orbit.</li>
+                                </ol></li>
+                            <li>Neither the linear speed nor the angular speed of the planet in the
+                                orbit is constant, but the area speed (closely linked historically
+                                with the concept of angular momentum) is constant.</li>
+                        </ol></li>
+                    <li>A line segment joining a planet and the Sun sweeps out equal areas during
+                        equal intervals of time.</li>
+                    <li>The square of the orbital period of a planet is directly proportional to the
+                        cube of the semi-major axis of its orbit.</li>
+                </ol></p>
+        </section>
+    </body>
+</topic>

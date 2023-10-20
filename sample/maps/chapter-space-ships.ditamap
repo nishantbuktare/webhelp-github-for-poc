@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Space Ships</title>
+    <topicref href="../topics/ships.dita" collection-type="sequence">
+        <topicref href="../topics/x22000.dita" collection-type="sequence">
+            <topicref href="../topics/x22000-specs.dita"/>
+        </topicref>
+        <topicref href="../topics/z11000.dita" collection-type="sequence">
+            <topicref href="../topics/z11000-specs.dita"/>
+        </topicref>
+    </topicref>
+</map>

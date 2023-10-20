@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publishing-template>
+  <name>Basket</name>
+  <webhelp>
+    <preview-image file="template.png"/>
+    <resources>
+      <css file="basket.css"/>
+    </resources>
+    <parameters>
+      <parameter name="webhelp.fragment.feedback" value="feedback-install.xml" type="filePath"/>
+    </parameters>
+  </webhelp>
+  <pdf>
+    <preview-image file="template.png"/>
+    <resources>
+      <css file="basket.css"/>
+    </resources>
+    <parameters>
+      <parameter name="args.css.param.numbering" value="deep"/>
+    </parameters>
+  </pdf>
+</publishing-template>

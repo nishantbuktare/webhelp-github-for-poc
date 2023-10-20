@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="x22000-specs">
+    <title>X22000 Specs</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>Space ships<indexterm>X22000 Super
+                            Rocket<indexterm>Specifications</indexterm></indexterm></indexterm>
+                <indexterm>X22000 specifications</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p>
+            <table frame="all" rowsep="1" colsep="1" id="table1">
+                <title>X22000 Specifications</title>
+                <tgroup cols="3">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <colspec colname="c3" colnum="3" colwidth="3*"/>
+                    <thead>
+                        <row>
+                            <entry>Name</entry>
+                            <entry>Spec Value</entry>
+                            <entry>Notes</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry align="center">Cores</entry>
+                            <entry align="center">4</entry>
+                            <entry>Three cores make up the first stage. The side cores are connected
+                                at the base and at the top of the center core’s liquid oxygen tank.
+                                The four cores generate 25,489 kN<fn>Kilonewton, which is equal to
+                                    1000 newtons</fn> (2599 tf<fn>Metric ton-force, which is equal
+                                    to 9.80665 kilonewtons</fn>) of thrust at liftoff.</entry>
+                        </row>
+                        <row>
+                            <entry align="center">Engines</entry>
+                            <entry align="center">37</entry>
+                            <entry>Shortly after liftoff 19 of the engines are throttled down. After
+                                the side cores separate, the 19 engines throttle back up to full
+                                thrust.</entry>
+                        </row>
+                        <row>
+                            <entry align="center">Mini Engines</entry>
+                            <entry align="center">55</entry>
+                            <entry>Inside each core is a cluster of 55 mini engines. These same
+                                engines power the Z11000, enabling efficiencies that make the X22000
+                                the most cost-effective light launch vehicle in the world. With a
+                                total of 37 first-stage engines, the X22000 has engine-out
+                                capability that no other launch vehicle can match. Under most
+                                payload scenarios, it can sustain up to 8 unplanned engine shutdown
+                                at any point in flight and still successfully complete its
+                                mission.</entry>
+                        </row>
+                        <row>
+                            <entry align="center">Thrust at sea level</entry>
+                            <entry align="center">38297 kN</entry>
+                            <entry>The engineers achieved this through the use of a special API
+                                called <codeph>x22000_4Core</codeph> (see <xref
+                                    href="#x22000-specs/ex1" format="dita">code
+                                below</xref>).</entry>
+                        </row>
+                        <row>
+                            <entry align="center">Thrust in vacuum</entry>
+                            <entry align="center">44383 kN</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry align="center">Height</entry>
+                            <entry align="center">78.9 m</entry>
+                            <entry>Measured from lowest to highest point</entry>
+                        </row>
+                        <row>
+                            <entry align="center">Width</entry>
+                            <entry align="center">14.18 m</entry>
+                            <entry>Measured from widest point</entry>
+                        </row>
+                        <row>
+                            <entry align="center">Mass</entry>
+                            <entry align="center">3,263 kg </entry>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+        <example id="ex1"><b>X22000 API
+                    Code:</b><codeblock outputclass="language-java">/**
+ * Omnis voluptas assumenda x22000, omnis dolor repellendus.
+ * @param id est laborum.
+ */
+public boolean praesentium() {
+	int thrust = 865086;
+	doSomething(thrust, false);
+	// Excepteur sint occaecat cupidatat non proident.
+
+	while (true) {
+		print("Duis aute irure dolor!");
+	}
+	/*
+	Duis aute irure dolor in reprehenderit in
+	voluptate velit esse cillum dolore eu fugiat.
+	*/
+
+	return thrust > 132413 ? true : false;
+}</codeblock><p><codeph>x22000_4Core_ver1</codeph></p><p><codeph>x22000_4Core_ver2</codeph></p><p><codeph>x22000_4Core_ver3</codeph></p><p><codeph>x22000_4Core_ver4</codeph></p></example>
+    </body>
+</topic>

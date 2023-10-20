@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+/*#
+@info@STYLES BASKET SELECTIONS METADATA@info@
+@name&styles_basket&name@
+@aspects&theme-fonts-monsterat-lato,content-font-size-12,title-font-size-big,page-size-a3,table-style-box&aspects@
+@info@WARNING: PLEASE DON'T MODIFY THIS FILE. MODIFICIATION CAN CAUSE UPLOADING ERRORS@info@
+#*/
+/*theme-fonts-monsterat-lato*/
+*[class~='front-page/front-page-title'],
+*[class~='topic/topic'][is-chapter] > *[class~='topic/title'] {
+  font-family: 'Montserrat', sans-serif;
+}
+*[class~='topic/topic'][is-chapter] > *[class~='topic/topic'] > *[class~='topic/title'] {
+  font-family: 'Montserrat', sans-serif;
+}
+*[class~='topic/title'],
+*[class~='topic/thead'] {
+  font-family: 'Montserrat', sans-serif;
+}
+*[class~='topic/shortdesc'],
+*[class~='topic/p'],
+*[class~='topic/li'],
+*[class~='topic/tbody'] {
+  font-family: 'Lato', sans-serif;
+}
+/*content-font-size-12*/
+body {
+  font-size: 12pt;
+}
+/*title-font-size-big*/
+.topictitle1 {
+  font-size: 2.4em;
+}
+.topictitle2 {
+  font-size: 2.1em;
+}
+.topictitle3 {
+  font-size: 1.8em;
+}
+.topictitle4 {
+  font-size: 1.5em;
+}
+.topictitle5,
+.topictitle6 {
+  font-size: 1.4em;
+}
+*[class~="topic/table"] *[class~="topic/title"],
+*[class~="topic/fig"] *[class~="topic/title"] {
+  font-size: 1.1em;
+}
+/*page-size-a3*/
+@media print {
+  @page {
+    size: A3;
+  }
+}
+/*table-style-box*/
+*[class~='topic/table'] {
+  border-spacing: 1px;
+}
+*[class~="topic/table"][frame],
+*[class~="frame-all"] {
+  border-color: #0000b3;
+  border-top: 5pt solid #000080 !important;
+  border-bottom: 5pt solid #000080 !important;
+}
+*[class~='topic/table'],
+*[class~="topic/thead"] {
+  background-color: #ffffff !important;
+  color: #000000;
+}
+*[class~='topic/entry'],
+td,
+th {
+  border: none;
+}
+.table td,
+.table th {
+  border-top: none;
+  border-bottom: none !important;
+}
+
+*[class~="pr-d/codeblock"] {
+    background-color: aliceblue;
+}

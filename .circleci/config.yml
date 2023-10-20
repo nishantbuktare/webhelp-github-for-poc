@@ -1,0 +1,18 @@
+version: 2.1
+jobs:
+  build:
+    docker:
+      - image: circleci/openjdk:stretch
+    steps:
+      - checkout
+      - run:
+            command: |
+                chmod +x ope/bin/dita
+                chmod +x publish.sh
+                chmod +x deploy.sh
+                export ANT_OPTS=-Xmx1024M
+                sh publish.sh
+      - run:
+            when: on_success
+            command: |
+                sh deploy.sh
