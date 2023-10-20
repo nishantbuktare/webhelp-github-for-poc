@@ -9,11 +9,11 @@ rev=$(git rev-parse --short HEAD)
 git init
 
 echo "Configuring Git user..."
-git config user.name "${USER_NAME}"
-git config user.email "${USER_MAIL}"
+git config user.name "nishantbuktare"
+git config user.email "nishant.buktare@gmail.com"
 
 echo "Adding and configuring the remote repository..."
-git remote add upstream "${GIT_REMOTE}"
+git remote add upstream "https://github.com/nishantbuktare/space-pages.git"
 git fetch upstream
 
 echo "Resetting the repository to the latest commit..."
