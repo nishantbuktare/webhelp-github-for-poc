@@ -28,4 +28,4 @@ git commit -m "Rebuild pages at %rev%"
 REM Push the changes to the remote repository
 git push -q upstream HEAD:gh-pages
 
-echo Deployment process completed.
+echo Deployment process completedd.
